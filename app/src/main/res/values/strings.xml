@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="helloText">Whom do you like the most ?</string>
+    <string name="momCheck">Mom</string>
+    <string name="dadCheck">Dad</string>
+    <string name="Grandmacheck">Grandma</string>
+    <string name="clickButton">Click me !!!</string>
+</resources>
